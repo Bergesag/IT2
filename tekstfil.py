@@ -6,3 +6,5 @@ print("Olav Alstad er en dengemaskin")
 
 def drep():
     pass
+
+print("yoyoyo")
